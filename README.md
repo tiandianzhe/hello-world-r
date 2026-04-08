@@ -62,7 +62,7 @@ brew install python
 ```
 hello-world-r/
 ├── hello_world.R        # R语言版本
-├── hello_world.py       # Python版本 ⭐ 新增
+├── hello_world.py       # Python版本
 ├── README.md            # 项目说明文档
 └── .gitignore           # Git忽略文件
 ```
