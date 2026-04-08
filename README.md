@@ -1,16 +1,30 @@
 # Hello World Collection 🎉
 
 > 我的编程入门项目合集 - 包含 R 和 Python 两种语言
+>
+> 🤖 **本项目由 [WorkBuddy](https://www.codebuddy.cn/) AI助手生成**
 
 [![R](https://img.shields.io/badge/R-4.0+-276DC3?logo=r&logoColor=white)](https://www.r-project.org/)
 [![Python](https://img.shields.io/badge/Python-3.8+-3776AB?logo=python&logoColor=white)](https://www.python.org/)
 [![License](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
+[![WorkBuddy](https://img.shields.io/badge/Generated%20by-WorkBuddy-blueviolet)](https://www.codebuddy.cn/)
 
 ---
 
 ## 📖 项目简介
 
 这是一个简单的编程入门项目合集，展示了 **R语言** 和 **Python** 的基本语法和功能。适合编程初学者参考学习，对比两种语言的特点。
+
+### 🤖 关于本项目
+
+本项目完全由 **WorkBuddy AI助手** 协助创建，包括：
+- ✅ 代码文件编写（R和Python版本）
+- ✅ 完整的README文档
+- ✅ Git仓库初始化和配置
+- ✅ SSH Key配置指导
+- ✅ GitHub仓库推送
+
+WorkBuddy 是一个智能AI助手，可以帮助你完成编程、写作、数据分析等各种任务。
 
 ## 🚀 快速开始
 
